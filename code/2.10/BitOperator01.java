@@ -1,6 +1,6 @@
 
 //演示位运算符
-public class BitOperator{
+public class BitOperator01{
 	
 	public static void main(String[] args){
 		
